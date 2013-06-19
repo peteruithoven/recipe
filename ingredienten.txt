@@ -1,9 +1,9 @@
-1		eetlepels olijfolie
-0.5 		kleine ui, grof gehakt
-1		teentje knoflook, fijngehakt
+1			eetlepels olijfolie
+0.5		kleine ui, grof gehakt
+1			teentje knoflook, fijngehakt
 250g	verse pompoen in blokjes
-37.4g 	geraspte wortel
-1 		eetlepels sojasaus
-0.25 	theelepel zout
-0.25 	theelepel versgemalen zwarte peper
-1		theelepels zwarte sesamzaadjes
+37.4g	geraspte wortel
+1			eetlepels sojasaus
+0.25	theelepel zout
+0.25	theelepel versgemalen zwarte peper
+1			theelepels zwarte sesamzaadjes
